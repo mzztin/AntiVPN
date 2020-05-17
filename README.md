@@ -19,5 +19,5 @@ Author: [mzztin](https://github.com/mzztin)
 
 Version: 1.0.0
 
-[Download](https://poggit.pmmp.io/mzztin/AntiVPN)
+[Download](https://poggit.pmmp.io/p/AntiVPN/1.0.0#)
 
