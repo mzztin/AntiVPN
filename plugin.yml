@@ -1,0 +1,16 @@
+---
+name: AntiVPN
+version: 0.0.1
+main: Martin\AntiVPN\AntiVPN
+api: [3.0.0]
+description: A simple plugin to check if a player is using a VPN
+author: Martin
+
+permissions:
+  antivpn.command:
+    default: op
+    description: Get access to the AntiVPN command
+  antivpn.bypass:
+    default: op
+    description: Dont get scanned by the AntiVPN plugin
+...
