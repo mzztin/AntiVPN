@@ -21,7 +21,11 @@ Author: [mzztin](https://github.com/mzztin)
 Version: 1.0.0
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Download](https://poggit.pmmp.io/ci/mzztin/AntiVPN/AntiVPN)
+=======
+[Download](https://poggit.pmmp.io/p/AntiVPN/1.0.0#)
+>>>>>>> 318118ea8ad1d9b92c54a463e023b8a68c499b1c
 =======
 [Download](https://poggit.pmmp.io/p/AntiVPN/1.0.0#)
 >>>>>>> 318118ea8ad1d9b92c54a463e023b8a68c499b1c
