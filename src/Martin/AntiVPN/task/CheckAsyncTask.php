@@ -3,10 +3,8 @@
 namespace Martin\AntiVPN\task;
 
 use Martin\AntiVPN\AntiVPN;
-use mysql_xdevapi\Exception;
 use pocketmine\scheduler\AsyncTask;
 use pocketmine\Server;
-use pocketmine\utils\TextFormat;
 
 class CheckAsyncTask extends AsyncTask
 {

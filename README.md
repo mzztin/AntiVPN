@@ -1,4 +1,5 @@
 # AntiVPN
+[![Status](https://poggit.pmmp.io/shield.state/AntiVPN)](https://poggit.pmmp.io/p/AntiVPN)
 [![HitCount](http://hits.dwyl.com/mzztin/AntiVPN.svg)](http://hits.dwyl.com/mzztin/AntiVPN)
 [![License](https://img.shields.io/github/license/koningcool/LoadAllWorlds.svg)](https://github.com/koningcool/LoadAllWorlds/blob/master/LICENSE)
 #### What does this plugin?
@@ -19,5 +20,9 @@ Author: [mzztin](https://github.com/mzztin)
 
 Version: 1.0.0
 
-[Download](https://poggit.pmmp.io/mzztin/AntiVPN)
+<<<<<<< HEAD
+[Download](https://poggit.pmmp.io/ci/mzztin/AntiVPN/AntiVPN)
+=======
+[Download](https://poggit.pmmp.io/p/AntiVPN/1.0.0#)
+>>>>>>> 318118ea8ad1d9b92c54a463e023b8a68c499b1c
 
