@@ -42,7 +42,6 @@ class CheckAsyncTask extends AsyncTask
 
     /**
      * @param Server $server
-     * @throws Exception
      */
     public function onCompletion(Server $server)
     {
@@ -55,8 +54,6 @@ class CheckAsyncTask extends AsyncTask
                 $player = $server->getPlayerExact($name);
                 $player->kick(AntiVPN::getInstance()->getCfg()->get("kick-message"), false);
             }
-        } else {
-            new Exception("Could not fetch data!");
         }
     }
 
