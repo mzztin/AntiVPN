@@ -43,7 +43,6 @@ class CheckAsyncTask extends AsyncTask
      */
     public function onCompletion(Server $server)
     {
-        print_r($this->getResult());
         $result = (float) $this->getResult()["result"];
         $name = $this->getResult()["name"];
 
