@@ -1,7 +1,6 @@
 # AntiVPN
 [![HitCount](http://hits.dwyl.com/mzztin/AntiVPN.svg)](http://hits.dwyl.com/mzztin/AntiVPN)
-[![License](https://img.shields.io/github/license/mzztin/AntiVPN.svg)
-
+[![License](https://img.shields.io/github/license/koningcool/LoadAllWorlds.svg)](https://github.com/koningcool/LoadAllWorlds/blob/master/LICENSE)
 #### What does this plugin?
 This plugin prevents players from using VPN.
 
